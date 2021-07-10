@@ -13,7 +13,7 @@ You can download SF-related things on Apple Design webpage.
 
 ## View this project
 
-(View on Behance)[https://www.behance.net/gallery/123216483/Apple-Beta-Software-Program-Redesigned]
+[View on Behance](https://www.behance.net/gallery/123216483/Apple-Beta-Software-Program-Redesigned)
 
 ## Download Project File
 
