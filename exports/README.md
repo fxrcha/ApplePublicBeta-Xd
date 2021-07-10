@@ -18,4 +18,4 @@
 
 ## Download Center - Detailed
 
-![Download](/exports/DonwloadwithDetails@2x.png "Download")
+![Download](/exports/DownloadwithDetails@2x.png "Download")
